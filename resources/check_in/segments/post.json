@@ -1,0 +1,84 @@
+{
+  "segments": [
+    {
+      "origin": {
+        "airportCode": "SIN",
+        "airportTerminal": "2",
+        "cityName": "Singapore"
+      },
+      "destination": {
+        "airportCode": "SUB",
+        "airportTerminal": "2",
+        "cityName": "Surabaya"
+      },
+      "operatingAirline": {
+        "airlineCode": "SQ",
+        "flightNumber": "930"
+      },
+      "departureDateTime": "2017-11-07T07:35:00",
+      "cabinClassCode": "Y",
+      "passengers": [
+        {
+          "passengerId": "2301D9DC000027B7",
+          "flightId": "1301D9DC000027B8",
+          "title": "MR",
+          "firstName": "BOATY",
+          "lastName": "MCBOATFACE",
+          "gender": "M",
+          "passengerType": "A",
+          "checkedIn": false
+        },
+        {
+          "passengerId": "2301CA0E00001CEB",
+          "flightId": "3301CA0E00001CEA",
+          "title": "MRS",
+          "firstName": "ALAN",
+          "lastName": "MCCREEPY",
+          "gender": "F",
+          "passengerType": "A",
+          "checkedIn": false
+        }
+      ]
+    },
+    {
+      "origin": {
+        "airportCode": "SUB",
+        "airportTerminal": "2",
+        "cityName": "Surabaya"
+      },
+      "destination": {
+        "airportCode": "SOM",
+        "airportTerminal": "2",
+        "cityName": "Somewhere"
+      },
+      "operatingAirline": {
+        "airlineCode": "SQ",
+        "flightNumber": "931"
+      },
+      "departureDateTime": "2017-11-06T01:35:00",
+      "cabinClassCode": "F",
+      "passengers": [
+        {
+          "passengerId": "2301D9DC000027B7",
+          "flightId": "1301D9DC000027B9",
+          "title": "MR",
+          "firstName": "BOATY",
+          "lastName": "MCBOATFACE",
+          "gender": "M",
+          "passengerType": "A",
+          "checkedIn": false
+        },
+        {
+          "passengerId": "2301CA0E00001CEB",
+          "flightId": "3301CA0E00001CEC",
+          "title": "MRS",
+          "firstName": "ALAN",
+          "lastName": "MCCREEPY",
+          "gender": "F",
+          "passengerType": "A",
+          "checkedIn": false
+        }
+      ]
+    }
+  ]
+}

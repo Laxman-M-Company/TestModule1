@@ -1,0 +1,9 @@
+[submodule "MainProject/lib/expresso"]
+	path = MainProject/lib/expresso
+	url = https://github.com/googlesamples/android-testing.git
+[submodule "MainProject/lib/retrofit"]
+	path = MainProject/lib/retrofit
+	url = https://github.com/square/retrofit.git
+[submodule "MainProject/lib/dagger"]
+	path = MainProject/lib/dagger
+	url = https://github.com/google/dagger.git

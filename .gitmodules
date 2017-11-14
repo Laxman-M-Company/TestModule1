@@ -7,3 +7,6 @@
 [submodule "MainProject/lib/dagger"]
 	path = MainProject/lib/dagger
 	url = https://github.com/google/dagger.git
+[submodule "TeamB"]
+	path = TeamB
+	url = https://github.com/laxmanJun01/TeamB.git

@@ -10,3 +10,6 @@
 [submodule "TeamB"]
 	path = TeamB
 	url = https://github.com/laxmanJun01/TeamB.git
+[submodule "TestModule2"]
+	path = TestModule2
+	url = https://github.com/laxman-m/TestModule2
